@@ -90,3 +90,8 @@ body {
 .game-info {
   margin-left: 20px;
 }
+
+.selected-move {
+  font-weight: bold;
+  color: red;
+}
